@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <div className="bg-gray-50 min-h-screen">
 
-      {/* Простая навигация */}
       <header className="bg-white shadow-sm sticky top-0 z-50">
         <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
           <div className="font-bold text-xl text-indigo-600">Shinebayr Temuujin</div>
@@ -16,12 +15,11 @@ export default function Home() {
         </div>
       </header>
 
-      {/* Главный блок */}
       <main className="max-w-4xl mx-auto px-4 py-16 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2">
           <h1 className="text-3xl font-bold mb-4 text-indigo-600">Привет, я Тупой аутист</h1>
           <p className="mb-4 text-black">Я просто ахуенный челик который освоил на ебанутом уровне такие программы по типу <span className="text-orange-500 font-bold">Illustrator </span> 
-  & <span className="text-indigo-500 font-bold">Photoshop </span> а также Figma также я ахуенно пишу код на <span className="text-orange-500 font-bold">HTML </span> 
+  & <span className="text-indigo-500 font-bold">Photoshop </span> а также Figma также я ахуенно пишу код на <span className="text-orange-500 font-boldgit ">HTML </span> 
   & <span className="text-indigo-500 font-bold">CSS </span></p>
           <a href="mailto:youremail@example.com" className="text-white bg-indigo-600 px-4 py-2 rounded">О</a>
         </div>
