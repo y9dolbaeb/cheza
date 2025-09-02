@@ -19,7 +19,7 @@ export default function Home() {
         <div className="md:w-1/2">
           <h1 className="text-3xl font-bold mb-4 text-indigo-600">Привет, я Тупой аутист</h1>
           <p className="mb-4 text-black">Я просто ахуенный челик который освоил на ебанутом уровне такие программы по типу <span className="text-orange-500 font-bold">Illustrator </span> 
-  & <span className="text-indigo-500 font-bold">Photoshop </span> а также Figma также я ахуенно пишу код на <span className="text-orange-500 font-boldgit ">HTML </span> 
+  & <span className="text-indigo-500 font-bold">Photoshop </span> а также <span className="text-red-600 font-bold">Figma</span> также я ахуенно пишу код на <span className="text-orange-500 font-bold ">HTML </span> 
   & <span className="text-indigo-500 font-bold">CSS </span></p>
           <a href="mailto:youremail@example.com" className="text-white bg-indigo-600 px-4 py-2 rounded">Отсосать</a>
         </div>
