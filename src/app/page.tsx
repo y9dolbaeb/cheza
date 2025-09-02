@@ -21,7 +21,7 @@ export default function Home() {
           <p className="mb-4 text-black">Я просто ахуенный челик который освоил на ебанутом уровне такие программы по типу <span className="text-orange-500 font-bold">Illustrator </span> 
   & <span className="text-indigo-500 font-bold">Photoshop </span> а также Figma также я ахуенно пишу код на <span className="text-orange-500 font-boldgit ">HTML </span> 
   & <span className="text-indigo-500 font-bold">CSS </span></p>
-          <a href="mailto:youremail@example.com" className="text-white bg-indigo-600 px-4 py-2 rounded">О</a>
+          <a href="mailto:youremail@example.com" className="text-white bg-indigo-600 px-4 py-2 rounded">Отсосать</a>
         </div>
 
         <div className="md:w-1/2 mt-8 md:mt-0 md:ml-8">
